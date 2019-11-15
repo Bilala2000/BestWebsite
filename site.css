@@ -1,0 +1,69 @@
+html
+{
+	background-color:#fefefe;
+	text-align:justify;
+	}
+	
+body
+{
+	font-family:'Open Sans' , sans-serif;
+	color:#454545;
+	margin:2em auto;
+	font-size:16px;
+	max-width:800px;
+	padding:1em;
+	line-height:1.4;
+	}
+red
+{
+	color: #800;
+}
+
+blue{
+	color: blue;
+}
+
+a:link {
+	color: #0077aa;
+}
+
+a:visited {
+	color: maroon;
+}
+
+
+	
+.chat 
+{
+	width: 40%;
+    display: inline-block;
+}
+
+.textchat 
+{
+	float: right;
+	width: 55%;
+	
+}
+
+small1
+{
+	font-size: .7em;
+}
+arial
+{
+	font-family: Times New Roman,Times,Arial;
+}
+
+small2
+{
+	font-size: .35em;
+}
+small3
+{
+	font-size: .4em;
+}
+small4
+{
+	font-size: .6em;
+}
